@@ -1,0 +1,48 @@
+books = [
+    {
+        "id": 1,
+        "title": "Think Python",
+        "author": "Allen B. Downey",
+        "publisher": "O'Reilly Media",
+        "published_date": "2021-01-01",
+        "page_count": 1234,
+        "language": "English",
+    },
+    {
+        "id": 2,
+        "title": "Django By Example",
+        "author": "Antonio Mele",
+        "publisher": "Packt Publishing",
+        "published_date": "2022-05-15",
+        "page_count": 1023,
+        "language": "English",
+    },
+    {
+        "id": 3,
+        "title": "Fluent Python",
+        "author": "Luciano Ramalho",
+        "publisher": "O'Reilly Media",
+        "published_date": "2020-08-20",
+        "page_count": 792,
+        "language": "English",
+    },
+    {
+        "id": 4,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "publisher": "Prentice Hall",
+        "published_date": "2008-08-01",
+        "page_count": 464,
+        "language": "English",
+    },
+    {
+        "id": 5,
+        "title": "System Design Interview",
+        "author": "Alex Xu",
+        "publisher": "ByteByteGo",
+        "published_date": "2021-06-10",
+        "page_count": 350,
+        "language": "English",
+    },
+]
+
